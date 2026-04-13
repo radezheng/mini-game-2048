@@ -1,1 +1,3 @@
-IyBNVlAgU2NvcGUKClNpbmdsZS1wbGF5ZXIgcGxheWFibGUgMjA0OCBjb3JlIGxvb3Agd2l0aCBiYXNpYyBVSSBhbmQgc2NvcmUuCg==
+# MVP Scope
+
+Single-player playable 2048 core loop with basic UI and score.
