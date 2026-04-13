@@ -1,1 +1,6 @@
-IyBQcm9qZWN0IEluaXQKCi0gUmVwbzogaHR0cHM6Ly9naXRodWIuY29tL3JhZGV6aGVuZy9taW5pLWdhbWUtMjA0OAotIERlZmF1bHQgYnJhbmNoOiBtYWluCi0gU3RhdHVzOiBpbml0aWFsaXplZCBiYXNlbGluZQotIE5vdGU6IGRldGFpbGVkIHBoYXNlIGFydGlmYWN0cyBzdGlsbCBuZWVkIHdvcmtlciB0byByZS1tYXRlcmlhbGl6ZSBpbnRvIHNoYXJlZCB0YXNrIGRpcmVjdG9yeSBmb3IgYXJjaGl2YWwuCg==
+# Project Init
+
+- Repo: https://github.com/radezheng/mini-game-2048
+- Default branch: main
+- Status: initialized baseline
+- Note: detailed phase artifacts still need worker to re-materialize into shared task directory for archival.
