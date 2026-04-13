@@ -1,1 +1,9 @@
-IyBQcm9jZXNzIGFuZCBSb2xlcwoKLSBnYW1lbGVhZDogaW5pdGlhbGl6YXRpb24sIGRlY29tcG9zaXRpb24sIGNvb3JkaW5hdGlvbiwgZ2F0ZSBjb250cm9sCi0gZ2FtZXBsYXktZGV2OiBydWxlcyBhbmQgc3RhdGUgdHJhbnNpdGlvbnMKLSBtaW5pZ2FtZS1kZXY6IG1haW4gZ2FtZSBpbXBsZW1lbnRhdGlvbgotIHBsYXRmb3JtLWRldjogcGFja2FnaW5nIGFuZCBjb21wYXRpYmlsaXR5Ci0gYmFja2VuZC1kZXY6IHRvb2xpbmcgYW5kIG9wdGlvbmFsIHN1cHBvcnQKLSBnYW1lcWE6IHRlc3RpbmcgYW5kIGFjY2VwdGFuY2UKLSBnYW1lb3BzLWRvYzogUkVBRE1FIGFuZCBkZWxpdmVyeSBkb2NzCg==
+# Process and Roles
+
+- gamelead: initialization, decomposition, coordination, gate control
+- gameplay-dev: rules and state transitions
+- minigame-dev: main game implementation
+- platform-dev: packaging and compatibility
+- backend-dev: tooling and optional support
+- gameqa: testing and acceptance
+- gameops-doc: README and delivery docs
