@@ -1,1 +1,8 @@
-IyBtaW5pLWdhbWUtMjA0OAoKMjA0OCDlvq7kv6Ev5oqW6Z+z5bCP5ri45oiP6YeN5ZCv6aG555uu44CCCgojIyBSZXBvIEJhc2VsaW5lCi0gRGVmYXVsdCBicmFuY2g6IGBtYWluYAotIENvbGxhYm9yYXRpb246IEdpdEh1YiByZXBvIGFzIHByaW1hcnkgd29ya3NwYWNlLCBNaW5JTy90YXNrIGZvciB0YXNrIHNwZWNzIGFuZCBwaGFzZSBhcmNoaXZlcwotIEN1cnJlbnQgc3RhdHVzOiBwcm9qZWN0IGluaXRpYWxpemF0aW9uIGJhc2VsaW5lIGNvbW1pdHRlZAo=
+# mini-game-2048
+
+2048 微信/抖音小游戏重启项目。
+
+## Repo Baseline
+- Default branch: `main`
+- Collaboration: GitHub repo as primary workspace, MinIO/task for task specs and phase archives
+- Current status: project initialization baseline committed
