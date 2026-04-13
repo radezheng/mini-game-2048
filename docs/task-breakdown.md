@@ -1,1 +1,5 @@
-IyBUYXNrIEJyZWFrZG93bgoKUGhhc2UgMjogZ2FtZXBsYXkgc3BlYyBhbmQgcGxheWFibGUgaW1wbGVtZW50YXRpb24uClBoYXNlIDM6IHBsYXRmb3JtIGFuZCB0b29saW5nLgpQaGFzZSA0OiBRQSBhbmQgZGVsaXZlcnkgZG9jcy4K
+# Task Breakdown
+
+Phase 2: gameplay spec and playable implementation.
+Phase 3: platform and tooling.
+Phase 4: QA and delivery docs.
