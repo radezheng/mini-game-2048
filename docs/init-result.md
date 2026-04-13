@@ -1,1 +1,3 @@
-IyBJbml0IFJlc3VsdAoKUmVwb3NpdG9yeSBiYXNlbGluZSBpbml0aWFsaXplZCBmb3IgcmVzdGFydCBwcm9qZWN0Lgo=
+# Init Result
+
+Repository baseline initialized for restart project.
